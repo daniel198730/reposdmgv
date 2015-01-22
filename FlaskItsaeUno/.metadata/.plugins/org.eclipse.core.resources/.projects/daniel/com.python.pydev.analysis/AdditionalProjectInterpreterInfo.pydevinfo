@@ -1,0 +1,49 @@
+-- VERSION_4
+-- START DISKCACHE
+E:\FlaskItsaeUno\.metadata\.plugins\org.eclipse.core.resources\.projects\daniel\com.python.pydev.analysis\v2_indexcache
+app.personaMain|1421960519676|E:\FlaskItsaeUno\daniel\app\personaMain.py
+ec.edu.itsae.conn.coexion|1421956831880|E:\FlaskItsaeUno\daniel\ec\edu\itsae\conn\coexion.py
+ec.edu.itsae.__init__|1421954184102|E:\FlaskItsaeUno\daniel\ec\edu\itsae\__init__.py
+app.mainIndex|1421960519660|E:\FlaskItsaeUno\daniel\app\mainIndex.py
+ec.edu.itsae.dao.__init__|1421954184102|E:\FlaskItsaeUno\daniel\ec\edu\itsae\dao\__init__.py
+ec.edu.itsae.conn.DBcon|1421956460182|E:\FlaskItsaeUno\daniel\ec\edu\itsae\conn\DBcon.py
+ec.edu.itsae.dao.PersonaDAO|1421957097949|E:\FlaskItsaeUno\daniel\ec\edu\itsae\dao\PersonaDAO.py
+ec.edu.__init__|1421954184102|E:\FlaskItsaeUno\daniel\ec\edu\__init__.py
+ec.__init__|1421954184117|E:\FlaskItsaeUno\daniel\ec\__init__.py
+app.__init__|1421960519660|E:\FlaskItsaeUno\daniel\app\__init__.py
+ec.edu.itsae.conn.__init__|1421954184102|E:\FlaskItsaeUno\daniel\ec\edu\itsae\conn\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+1=app.personaMain
+8=DBcon
+2=ec.edu.itsae.conn.coexion
+7=PersonaDao
+5=app.mainIndex
+4=ec.edu.itsae.conn.DBcon
+6=ec.edu.itsae.dao.PersonaDAO
+3=app.__init__
+-- END DICTIONARY
+-- START TREE 1
+11
+add|1|addPersona!10@
+app|2|app!19@app!27@
+bus|2|buscarPersonaDato!10@buscarPersonaAuto!10@
+con|1|con!19@
+dbc|1|DBcon!33@
+ind|1|index!42@
+log|1|login!42@
+mai|2|main!42@mainPersona!10@
+mys|1|mysql!19@
+per|1|PersonaDao!49@
+rep|1|report!19@
+-- END TREE
+-- START TREE 2
+6
+__i|2|__init__!7&50@__init__!8&34@
+bus|1|buscarPersonaNombre!7&50@
+con|1|conexion!8&34@
+ins|1|insertarPersona!7&50@
+rep|1|reportarPersona!7&50@
+val|1|validarUsuario!7&50@
+-- END TREE

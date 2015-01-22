@@ -1,0 +1,12 @@
+MODULES_MANAGER_V2
+app.__init__|E:\FlaskItsaeUno\daniel\app\__init__.py
+app.mainIndex|E:\FlaskItsaeUno\daniel\app\mainIndex.py
+app.personaMain|E:\FlaskItsaeUno\daniel\app\personaMain.py
+ec.__init__|E:\FlaskItsaeUno\daniel\ec\__init__.py
+ec.edu.__init__|E:\FlaskItsaeUno\daniel\ec\edu\__init__.py
+ec.edu.itsae.__init__|E:\FlaskItsaeUno\daniel\ec\edu\itsae\__init__.py
+ec.edu.itsae.conn.DBcon|E:\FlaskItsaeUno\daniel\ec\edu\itsae\conn\DBcon.py
+ec.edu.itsae.conn.__init__|E:\FlaskItsaeUno\daniel\ec\edu\itsae\conn\__init__.py
+ec.edu.itsae.conn.coexion|E:\FlaskItsaeUno\daniel\ec\edu\itsae\conn\coexion.py
+ec.edu.itsae.dao.PersonaDAO|E:\FlaskItsaeUno\daniel\ec\edu\itsae\dao\PersonaDAO.py
+ec.edu.itsae.dao.__init__|E:\FlaskItsaeUno\daniel\ec\edu\itsae\dao\__init__.py

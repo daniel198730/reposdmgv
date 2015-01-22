@@ -1,0 +1,10 @@
+INSTUPec.edu.itsae.dao.PersonaDAO
+E:\FlaskItsaeUno\FlaskItsae2\ec\edu\itsae\dao\PersonaDAO.py
+INFOS:&&1|1|2|0&&2|3|2|1&&2|4|2|1&&2|5|2|1&&2|6|2|1&&2|7|2|1
+validarUsuario=7
+__init__=3
+insertarPersona=5
+buscarPersonaNombre=6
+PersonaDao=1
+reportarPersona=4
+ec.edu.itsae.dao.PersonaDAO=2
