@@ -1,10 +1,11 @@
 '''
-Created on 29/1/2015
+Created on 19/2/2015
 
-@author: PERSONAL
-
+@author: PC29
 '''
 from app import app
+ 
 
 if __name__ == '__main__':
-    app.run(debug=False)
+    app.run(debug=True)
+    

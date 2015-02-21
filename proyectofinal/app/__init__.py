@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
- 
+
 from flask import Flask
 
 app=Flask(__name__)
 
-from app import mainIndex
-#from app import personaMain
+from app import mainindex
+from app import personaMain
